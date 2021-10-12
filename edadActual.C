@@ -1,4 +1,5 @@
 /*  David Riv-DawffyddRiv */
+/*Programa por mejorar al aplicar funciones*/
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
